@@ -177,3 +177,50 @@ section{
 .secondary {
     border-color: #39a6b2;
 }
+
+.trainers {
+    text-align: center;
+}
+
+.trainer{
+    background-color: #024e76;
+    color:#fce138;
+    width: 900px;
+    margin: 0, auto, 30px, auto; 
+    overflow: auto;
+}
+
+.trainer img{
+    width: 35%;
+    float: left;
+}
+
+.trainer-bio{
+    width: 65%;
+    float:left;
+    padding: 35px;
+}
+
+.text-left{
+    text-align: left;
+}
+
+.text-right{
+    text-align: right;
+}
+
+.trainer-bio h3{
+    font-size: 32px;
+    margin-bottom: 10px
+}
+
+.trainer-bio h4{
+    font-size: 26px;
+    font-weight: lighter;
+    margin-bottom: 25px;
+
+}
+.trainer-bio p{
+    font-size: 17px;
+    line-height: 1.3;
+}
